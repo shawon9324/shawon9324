@@ -44,7 +44,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon9324&layout=compact)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon9324)]()
 
 <!-- [![This week I spent my time on](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324)] -->
 
