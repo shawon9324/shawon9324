@@ -1,5 +1,4 @@
-### Hi there, I'm Shawon [Portfolio Website][website] 👋
-
+### Hi there, I'm Shawon <a href="https://shawon9324.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm a Full-Stack Web Application Developer 
 
@@ -36,12 +35,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://shawon9324.github.io
 [linkedin]: https://www.linkedin.com/in/shawon9324/
