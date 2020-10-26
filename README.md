@@ -21,20 +21,20 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="bootstrap" width="26px" src="https://qaam.live/wp-content/uploads/2020/09/bootstrap-5.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JQUERY" width="26px" src="https://img2.pngio.com/jquery-logo-png-transparent-jquery-logopng-images-pluspng-jquery-png-320_320.png" />
-<img align="left" alt="Vue.js" width="26px" src="https://vuejs.org/images/logo.png" />
 <img align="left" alt="PHP" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/528/528261.svg" />
+<img align="left" alt="Vue.js" width="26px" src="https://vuejs.org/images/logo.png" />
 <img align="left" alt="LARAVEL" width="26px" src="https://laravel.com/img/logomark.min.svg" />
 <img align="left" alt="SQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/3161/3161158.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/1051/1051326.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <br />
 <br />
