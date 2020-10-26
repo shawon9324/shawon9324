@@ -1,4 +1,4 @@
-### Hi there, I'm Shawon <a href="https://shawon9324.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm [Shawon][website] <a href="https://shawon9324.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm a Full-Stack Web Application Developer 
 
@@ -7,11 +7,11 @@
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
 - 🚀 2020 Goals: Contribute more to advanced Laravel projects
 - 💬 Please feel free to contact me if you need any further information: <a href="mailto:shawon9324@gmail.com">shawon9324@gmail.com</a>
+- 📌 Visit my portfolio website: [https://shawon9324.github.io][website]
 
 
 ### Connect with me:
 
-[<img align="left" alt="shawon9324.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="shawon9324 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="shawon9324 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="shawon9324 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
