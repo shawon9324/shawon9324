@@ -23,7 +23,7 @@
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="bootstrap" width="26px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png" />
+<img align="left" alt="bootstrap" width="26px" src="https://qaam.live/wp-content/uploads/2020/09/bootstrap-5.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="JQUERY" width="26px" src="https://img2.pngio.com/jquery-logo-png-transparent-jquery-logopng-images-pluspng-jquery-png-320_320.png" />
 <img align="left" alt="PHP" width="26px" src="https://www.flaticon.com/svg/static/icons/svg/528/528261.svg" />
