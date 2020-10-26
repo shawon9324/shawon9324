@@ -2,10 +2,10 @@
 
 ## I'm a Full-Stack Web Application Developer 
 
-- 🔭 I just launched my new Web Application: [Keyboard & Mouse Tester Utility][apps_keytester]!
-- 🌱 I'm currently learning some Javascript Framework and Blockchain Decentralized Application(dapps)
-- 👯 I love working with a technically strong team where I can collaborate to solve complex problems
-- 🥅 2020 Goals: Contribute more to advanced Laravel projects
+- ⌨️ I just launched my new Web Application: [Keyboard & Mouse Tester Utility][apps_keytester]!
+- 👨‍💻 I'm currently learning some Javascript Framework and Blockchain Decentralized Application(dapps)
+- 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
+- 🚀 2020 Goals: Contribute more to advanced Laravel projects
 - 💬 Please feel free to contact me if you need any further information: <a href="mailto:shawon9324@gmail.com">shawon9324@gmail.com</a>
 
 
