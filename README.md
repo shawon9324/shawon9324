@@ -40,6 +40,8 @@
 <br />
 <img align="left" alt="shawon9324's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shawon9324&theme=vue&show_icons=true&count_private=true&hide=contribs,prs" />
 
+[![This week I spent my time on](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324)](https://github.com/anuraghazra/github-readme-stats)
+
 [website]: https://shawon9324.github.io
 [linkedin]: https://www.linkedin.com/in/shawon9324/
 [telegram]: https://t.me/shawon9324
