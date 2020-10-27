@@ -44,7 +44,7 @@
 
 <div class="row">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon9324&theme=vue-dark)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon9324&theme=vue-dark)](https://shawon9324.github.io/)
 
 </div>
 
