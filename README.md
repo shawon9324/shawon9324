@@ -47,12 +47,16 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon9324)]()
 
 </div>
+<div class="row">
+
+[![This week I spent my time on](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324)]
+
+
+</div>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 
-
-<!-- [![This week I spent my time on](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324)] -->
 
 [website]: https://shawon9324.github.io
 [linkedin]: https://www.linkedin.com/in/shawon9324/
