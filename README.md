@@ -49,7 +49,8 @@
 </div>
 <div class="row">
 
-[![This week I spent my time on](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324)]
+[![shawon9324's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 </div>
