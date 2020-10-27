@@ -39,12 +39,12 @@
 <br />
 <br />
 <div class="row">
-<img align="left" alt="shawon9324's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shawon9324&theme=vue&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" />
+<img align="left" alt="shawon9324's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shawon9324&theme=vue-dark&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" />
 </div>
 
 <div class="row">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon9324)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon9324&theme=vue-dark)]()
 
 </div>
 
