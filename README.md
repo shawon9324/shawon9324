@@ -48,6 +48,12 @@
 
 </div>
 
+<div class="row">
+
+[![shawon9324's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324)](https://shawon9324.github.io/)
+
+</div>
+
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
