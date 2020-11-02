@@ -42,20 +42,18 @@
 
 <img align="left" alt="shawon9324's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shawon9324&theme=vue-dark&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon9324&theme=vue-dark)](https://shawon9324.github.io/)
+
+
 [![shawon9324's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324&theme=vue-dark)](https://shawon9324.github.io/)
 
 </div>
 
 <div class="row">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawon9324&theme=vue-dark)](https://shawon9324.github.io/)
 
 </div>
 
-<div class="row">
-
-
-</div>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
