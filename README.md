@@ -39,7 +39,11 @@
 <br />
 <br />
 <div class="row">
+
 <img align="left" alt="shawon9324's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shawon9324&theme=vue-dark&show_icons=true&count_private=true&hide=contribs,prs&include_all_commits=true" />
+
+[![shawon9324's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324&theme=vue-dark)](https://shawon9324.github.io/)
+
 </div>
 
 <div class="row">
@@ -50,7 +54,6 @@
 
 <div class="row">
 
-[![shawon9324's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shawon9324)](https://shawon9324.github.io/)
 
 </div>
 
