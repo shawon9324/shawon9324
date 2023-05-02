@@ -1,6 +1,6 @@
 ### Hi there, I'm [Shawon][website] <a href="https://shawon9324.github.io"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-## I'm a Software Engineer
+## I'm a Software Engineer | <a href="https://wakatime.com/@b5d3d152-9aaf-4708-924d-438e1f5ab746"><img src="https://wakatime.com/badge/user/b5d3d152-9aaf-4708-924d-438e1f5ab746.svg" alt="Total time coded since Oct 27 2020" /></a>
 
 - ⌨️ I just launched my new Web Application: [Keyboard & Mouse Tester Utility][apps_keytester]!
 - 👨‍💻 I'm currently learning some Javascript Framework and Blockchain Decentralized Application(dapps)
